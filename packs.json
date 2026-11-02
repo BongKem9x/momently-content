@@ -1,0 +1,5 @@
+{
+  "packs": [
+    { "id": "test_pack", "version": 1, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/test_pack_v1.zip" }
+  ]
+}
