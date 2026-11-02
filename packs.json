@@ -1,6 +1,7 @@
 {
   "remove": ["test_pack"],
   "packs": [
-    { "id": "update_brush", "version": 2, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/update_brush.zip" }
+    { "id": "update_brush", "version": 2, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/update_brush.zip" },
+    { "id": "update_brush", "version": 3, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/update_brush_v1.zip" }
   ]
 }
