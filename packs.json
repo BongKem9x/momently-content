@@ -4,6 +4,7 @@
     { "id": "update_brush", "version": 3, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/update_brush.zip" },
     { "id": "momently_frames", "version": 4, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/momently-frames.zip" },
     { "id": "momently_brushes", "version": 5, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/momently-brushes.zip" },
-    { "id": "mochi_mood_pack", "version": 1, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/mochi-mood-pack.zip" }
+    { "id": "mochi_mood_pack", "version": 1, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/mochi-mood-pack.zip" },
+    { "id": "261105", "version": 1, "url": "https://raw.githubusercontent.com/BongKem9x/momently-content/main/261105.zip" }
   ]
 }
